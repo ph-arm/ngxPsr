@@ -107,10 +107,8 @@ To use panda it needs to be refactored, indeed it seems we only get marginal gai
 To use numpy we get to cast dates at input and output. It gets faster on the conversion but raises complexity and lower margin for consistency.
 Also, new functionalities could be added to detect security patterns for example.
 
-I would love to hear more about your point of view and expertise.
-
 All the best
-Philippe ARMANDO
+PA
 
 
 [//]: #
